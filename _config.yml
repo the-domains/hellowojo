@@ -1,0 +1,28 @@
+name: hellowojo
+favicon: null
+layout_spectrum: 0.9562746847514063
+typography_spectrum: 0.033530321437865496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8426497031468898
+  lightness: 0.4989564779680222
+  saturation: 0.4961078306660056
+  rhythmicContrast: 0.2602232068311423
+purpose: []
